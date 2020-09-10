@@ -17,6 +17,7 @@ $(document).ready(function() {
 	 }
 	 
 	 
+	 
 	 draw()
 	 function draw(){
 		 context.clearRect(0,0,width,height);
