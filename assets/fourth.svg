@@ -1,0 +1,75 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="66px" height="46px" viewBox="0 0 66 46">
+<defs>
+<g id="Layer0_0_MEMBER_0_FILL">
+<path fill="#F36D3A" stroke="none" d="
+M 1547.2 551.15
+L 1547.2 401.15 1331.2 401.15 1331.2 551.15 1547.2 551.15 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_1_FILL">
+<path fill="#9C9C9C" stroke="none" d="
+M 56.45 69.25
+L 56.45 222.25 275.45 222.25 275.45 69.25 56.45 69.25
+M 272.45 72.25
+L 272.45 219.25 59.45 219.25 59.45 72.25 272.45 72.25 Z"/>
+</g>
+
+<g id="Layer0_0_MEMBER_2_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 185.9 148.55
+L 185.9 144.8 147.7 144.8 147.7 148.55 185.9 148.55 Z"/>
+</g>
+
+<font horiz-adv-x="2048">
+<!--  Font Name: Myriad Pro Bold
+Vendor ID: ADBE
+© 2000, 2004 Adobe Systems Incorporated. All Rights Reserved. U.S. Patent D454,582.
+http://www.adobe.com/type/legal.html
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=ADBE&Name=Myriad%20Pro&PSName=MyriadPro-Bold&applanguage=en_US-->
+<font-face font-family="Myriad_Pro_Bold" units-per-em="2048" ascent="2025" descent="512"/>
+
+<glyph unicode="1" horiz-adv-x="1137" d="
+M 483 0
+L 784 0 784 1331 526 1331 174 1167 225 934 479 1055 483 1055 483 0 Z"/>
+
+<glyph unicode="4" horiz-adv-x="1137" d="
+M 932 0
+L 932 318 1092 318 1092 551 932 551 932 1331 551 1331 47 520 47 318 637 318 637 0 932 0 Z
+M 338 551
+L 338 555 516 846
+Q 549 908 578 969 607 1029 639 1093
+L 647 1093
+Q 643 1029 640 967 637 905 637 846
+L 637 551 338 551 Z"/>
+</font>
+</defs>
+
+<g transform="matrix( 0.3013763427734375, 0, 0, 0.301300048828125, -400.7,-120.4) ">
+<use xlink:href="#Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 0.3013763427734375, 0, 0, 0.301300048828125, -17,-20.85) ">
+<use xlink:href="#Layer0_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 0.3013763427734375, 0, 0, 0.301300048828125, -17,-20.85) ">
+<use xlink:href="#Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 0.3013763427734375, 0, 0, 0.301300048828125, 29.85,4.4) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="29.45" height="60.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan x="0" y="45.05" baseline-shift="0%" kerning="0" font-family="Myriad_Pro_Bold" font-weight="bold" font-size="45.55" fill="#FFFFFF" xml:space="preserve">1</tspan></text>
+</g>
+
+<g transform="matrix( 0.3013763427734375, 0, 0, 0.301300048828125, 29.85,24.05) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="29.45" height="60.45" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="45.05" baseline-shift="0%" kerning="0" font-family="Myriad_Pro_Bold" font-weight="bold" font-size="45.55" fill="#FFFFFF" xml:space="preserve">4</tspan></text>
+</g>
+</svg>
